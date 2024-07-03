@@ -1,4 +1,4 @@
-# docsify website sample <small>0.0.1</small>
+# 家具板材知识库 <small>1.0初创版</small>
 
-<a href="https://github.com/lexmin0412/docsify-website-sample">Github</a>
-<a href="#README">Get Started</a>
+<a href="https://lidu.ltd">利都首页</a>
+<a href="#README">知识库首页</a>
